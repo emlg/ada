@@ -1,7 +1,6 @@
 # Understanding EPF Tuition Fee raise
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
 The idea of the project is to gain insight about why the EPF (both Lausanne and Zurich) will raise their tuition fee. Tuition fees raise are a source of great debate. We can understand that, in order to provide higher quality teaching, universities need more money. However, we can also understand that wealth should not be the criterion to access higher education.  
 By analyzing the evolution of the different costs, the different funds, the number of students, the number of graduate, the number of scholarships, the number of staff and the projection of future number of students in the Swiss universities. Thanks to the Federal Institute of Statistics we have all those datasets available and detailed by canton. We will investigate for links explaining the need for greater fund from the students and whether the different cantons or domain of study have different schemes.
@@ -9,7 +8,6 @@ By analyzing the evolution of the different costs, the different funds, the numb
 (144 words)
 
 # Research questions
-A list of research questions you would like to address during the project.
 
 - What is the trend of the costs of universities ?
 - How does the repartition between private and public funds evolve ?
@@ -17,11 +15,11 @@ A list of research questions you would like to address during the project.
 - Should the Tuition fee depend on your domain ?
 - Are the number of staff and the number of students correlated ?
 - In what criteria do the EPF situation differ from the Swiss universities situation ?
-- Should we differentiate Swiss student from international students regarding tuition fees ?
+- Should we differentiate Swiss students from international students regarding tuition fees ?
 - How many month/year of salary does it take to refund your tuition fee, depending on domain ?
+- Can we relate the Tuition Fees evolution to the Research funds ?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 The files from opendata.swiss that are useful to us all come from the OFS (Office Fédéral de la Statistique). They are in a format called PC-AXIS. We found online a Python module that converts PC-AXIS files to Pandas Dataframes, which is the format we are used to (source : https://github.com/miseran/opendata/blob/master/px_reader.py).
 With the following links, we can easily have a look at the data and select which part we want to download. Once on the website, click on "Preview" (or "Aperçu" in French). You will arrive on a temporary OFS website where you can select the years, universities and categories that you would like to see. You will now be able to download the file corresponding to the previewed data.
@@ -40,17 +38,15 @@ With the following links, we can easily have a look at the data and select which
 We can see that the data is well organized with some index similar to the Pandas dataframe. We can see that the variables names are consistent form one file to the other.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
 
 - Retrieve all the data files from the Swiss Institute of Statistics
 - Correctly import them into Pandas dataframes
 - Check for missing data
 - Visualize data by canton, by university, by domain but keep the x-axis for time
-- Determine if they are correlations
+- Determine if they are correlations (exploratory analysis)
 - Determine if we keep data before the last raise of tuition fee
 
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAs
 
 - How much of our project should be spent on visualization ?
 - Is our subject too general ?
