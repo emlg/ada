@@ -5,7 +5,6 @@
 The idea of the project is to gain insight about why the EPF (both Lausanne and Zurich) will raise their tuition fee. Tuition fees raise are a source of great debate. We can understand that, in order to provide higher quality teaching, universities need more money. However, we can also understand that wealth should not be the criterion to access higher education.  
 By analyzing the evolution of the different costs, the different funds, the number of students, the number of graduate, the number of scholarships, the number of staff and the projection of future number of students in the Swiss universities. Thanks to the Federal Institute of Statistics we have all those datasets available and detailed by canton. We will investigate for links explaining the need for greater fund from the students and whether the different cantons or domain of study have different schemes.
 
-(144 words)
 
 # Research questions
 
@@ -18,6 +17,7 @@ By analyzing the evolution of the different costs, the different funds, the numb
 - Should we differentiate Swiss students from international students regarding tuition fees ?
 - How many month/year of salary does it take to refund your tuition fee, depending on domain ?
 - Can we relate the Tuition Fees evolution to the Research funds ?
+- Can we spot some differences between EPFL and ETHZ ?
 
 # Dataset
 
