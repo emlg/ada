@@ -1,0 +1,805 @@
+﻿Canton;Classes d'âge par étapes de 5 ans;Nationalité;Chômeurs inscrits
+Zurich;15-19 ans;Etrangers;453
+Zurich;15-19 ans;Suisses;809
+Zurich;15-19 ans;Total;1 262
+Zurich;20-24 ans;Etrangers;631
+Zurich;20-24 ans;Suisses;1 437
+Zurich;20-24 ans;Total;2 068
+Zurich;25-29 ans;Etrangers;1 515
+Zurich;25-29 ans;Suisses;1 729
+Zurich;25-29 ans;Total;3 244
+Zurich;30-34 ans;Etrangers;2 325
+Zurich;30-34 ans;Suisses;1 824
+Zurich;30-34 ans;Total;4 149
+Zurich;35-39 ans;Etrangers;2 242
+Zurich;35-39 ans;Suisses;1 689
+Zurich;35-39 ans;Total;3 931
+Zurich;40-44 ans;Etrangers;1 763
+Zurich;40-44 ans;Suisses;1 562
+Zurich;40-44 ans;Total;3 325
+Zurich;45-49 ans;Etrangers;1 356
+Zurich;45-49 ans;Suisses;1 777
+Zurich;45-49 ans;Total;3 133
+Zurich;50-54 ans;Etrangers;1 095
+Zurich;50-54 ans;Suisses;1 841
+Zurich;50-54 ans;Total;2 936
+Zurich;55-59 ans;Etrangers;728
+Zurich;55-59 ans;Suisses;1 596
+Zurich;55-59 ans;Total;2 324
+Zurich;60 ans et plus;Etrangers;438
+Zurich;60 ans et plus;Suisses;1 182
+Zurich;60 ans et plus;Total;1 620
+Zurich;Total;;27 992
+Berne;15-19 ans;Etrangers;150
+Berne;15-19 ans;Suisses;332
+Berne;15-19 ans;Total;482
+Berne;20-24 ans;Etrangers;366
+Berne;20-24 ans;Suisses;945
+Berne;20-24 ans;Total;1 311
+Berne;25-29 ans;Etrangers;622
+Berne;25-29 ans;Suisses;1 117
+Berne;25-29 ans;Total;1 739
+Berne;30-34 ans;Etrangers;869
+Berne;30-34 ans;Suisses;973
+Berne;30-34 ans;Total;1 842
+Berne;35-39 ans;Etrangers;735
+Berne;35-39 ans;Suisses;846
+Berne;35-39 ans;Total;1 581
+Berne;40-44 ans;Etrangers;575
+Berne;40-44 ans;Suisses;767
+Berne;40-44 ans;Total;1 342
+Berne;45-49 ans;Etrangers;582
+Berne;45-49 ans;Suisses;888
+Berne;45-49 ans;Total;1 470
+Berne;50-54 ans;Etrangers;442
+Berne;50-54 ans;Suisses;1 027
+Berne;50-54 ans;Total;1 469
+Berne;55-59 ans;Etrangers;331
+Berne;55-59 ans;Suisses;940
+Berne;55-59 ans;Total;1 271
+Berne;60 ans et plus;Etrangers;239
+Berne;60 ans et plus;Suisses;887
+Berne;60 ans et plus;Total;1 126
+Berne;Total;;13 633
+Lucerne;15-19 ans;Etrangers;61
+Lucerne;15-19 ans;Suisses;120
+Lucerne;15-19 ans;Total;181
+Lucerne;20-24 ans;Etrangers;135
+Lucerne;20-24 ans;Suisses;282
+Lucerne;20-24 ans;Total;417
+Lucerne;25-29 ans;Etrangers;222
+Lucerne;25-29 ans;Suisses;262
+Lucerne;25-29 ans;Total;484
+Lucerne;30-34 ans;Etrangers;245
+Lucerne;30-34 ans;Suisses;255
+Lucerne;30-34 ans;Total;500
+Lucerne;35-39 ans;Etrangers;241
+Lucerne;35-39 ans;Suisses;213
+Lucerne;35-39 ans;Total;454
+Lucerne;40-44 ans;Etrangers;183
+Lucerne;40-44 ans;Suisses;179
+Lucerne;40-44 ans;Total;362
+Lucerne;45-49 ans;Etrangers;186
+Lucerne;45-49 ans;Suisses;217
+Lucerne;45-49 ans;Total;403
+Lucerne;50-54 ans;Etrangers;141
+Lucerne;50-54 ans;Suisses;270
+Lucerne;50-54 ans;Total;411
+Lucerne;55-59 ans;Etrangers;118
+Lucerne;55-59 ans;Suisses;281
+Lucerne;55-59 ans;Total;399
+Lucerne;60 ans et plus;Etrangers;59
+Lucerne;60 ans et plus;Suisses;205
+Lucerne;60 ans et plus;Total;264
+Lucerne;Total;;3 875
+Uri;15-19 ans;Etrangers;1
+Uri;15-19 ans;Suisses;1
+Uri;15-19 ans;Total;2
+Uri;20-24 ans;Etrangers;7
+Uri;20-24 ans;Suisses;7
+Uri;20-24 ans;Total;14
+Uri;25-29 ans;Etrangers;5
+Uri;25-29 ans;Suisses;8
+Uri;25-29 ans;Total;13
+Uri;30-34 ans;Etrangers;18
+Uri;30-34 ans;Suisses;4
+Uri;30-34 ans;Total;22
+Uri;35-39 ans;Etrangers;6
+Uri;35-39 ans;Suisses;4
+Uri;35-39 ans;Total;10
+Uri;40-44 ans;Etrangers;5
+Uri;40-44 ans;Suisses;3
+Uri;40-44 ans;Total;8
+Uri;45-49 ans;Etrangers;7
+Uri;45-49 ans;Suisses;10
+Uri;45-49 ans;Total;17
+Uri;50-54 ans;Etrangers;6
+Uri;50-54 ans;Suisses;7
+Uri;50-54 ans;Total;13
+Uri;55-59 ans;Etrangers;12
+Uri;55-59 ans;Suisses;8
+Uri;55-59 ans;Total;20
+Uri;60 ans et plus;Etrangers;2
+Uri;60 ans et plus;Suisses;8
+Uri;60 ans et plus;Total;10
+Uri;Total;;129
+Schwyz;15-19 ans;Etrangers;13
+Schwyz;15-19 ans;Suisses;18
+Schwyz;15-19 ans;Total;31
+Schwyz;20-24 ans;Etrangers;36
+Schwyz;20-24 ans;Suisses;58
+Schwyz;20-24 ans;Total;94
+Schwyz;25-29 ans;Etrangers;48
+Schwyz;25-29 ans;Suisses;63
+Schwyz;25-29 ans;Total;111
+Schwyz;30-34 ans;Etrangers;87
+Schwyz;30-34 ans;Suisses;74
+Schwyz;30-34 ans;Total;161
+Schwyz;35-39 ans;Etrangers;75
+Schwyz;35-39 ans;Suisses;68
+Schwyz;35-39 ans;Total;143
+Schwyz;40-44 ans;Etrangers;103
+Schwyz;40-44 ans;Suisses;79
+Schwyz;40-44 ans;Total;182
+Schwyz;45-49 ans;Etrangers;80
+Schwyz;45-49 ans;Suisses;114
+Schwyz;45-49 ans;Total;194
+Schwyz;50-54 ans;Etrangers;76
+Schwyz;50-54 ans;Suisses;125
+Schwyz;50-54 ans;Total;201
+Schwyz;55-59 ans;Etrangers;73
+Schwyz;55-59 ans;Suisses;116
+Schwyz;55-59 ans;Total;189
+Schwyz;60 ans et plus;Etrangers;39
+Schwyz;60 ans et plus;Suisses;102
+Schwyz;60 ans et plus;Total;141
+Schwyz;Total;;1 447
+Obwald;15-19 ans;Suisses;1
+Obwald;15-19 ans;Total;1
+Obwald;20-24 ans;Etrangers;8
+Obwald;20-24 ans;Suisses;7
+Obwald;20-24 ans;Total;15
+Obwald;25-29 ans;Etrangers;12
+Obwald;25-29 ans;Suisses;11
+Obwald;25-29 ans;Total;23
+Obwald;30-34 ans;Etrangers;9
+Obwald;30-34 ans;Suisses;4
+Obwald;30-34 ans;Total;13
+Obwald;35-39 ans;Etrangers;10
+Obwald;35-39 ans;Suisses;2
+Obwald;35-39 ans;Total;12
+Obwald;40-44 ans;Etrangers;10
+Obwald;40-44 ans;Suisses;12
+Obwald;40-44 ans;Total;22
+Obwald;45-49 ans;Etrangers;13
+Obwald;45-49 ans;Suisses;13
+Obwald;45-49 ans;Total;26
+Obwald;50-54 ans;Etrangers;12
+Obwald;50-54 ans;Suisses;18
+Obwald;50-54 ans;Total;30
+Obwald;55-59 ans;Etrangers;3
+Obwald;55-59 ans;Suisses;12
+Obwald;55-59 ans;Total;15
+Obwald;60 ans et plus;Etrangers;2
+Obwald;60 ans et plus;Suisses;17
+Obwald;60 ans et plus;Total;19
+Obwald;Total;;176
+Nidwald;15-19 ans;Etrangers;5
+Nidwald;15-19 ans;Suisses;3
+Nidwald;15-19 ans;Total;8
+Nidwald;20-24 ans;Etrangers;5
+Nidwald;20-24 ans;Suisses;7
+Nidwald;20-24 ans;Total;12
+Nidwald;25-29 ans;Etrangers;4
+Nidwald;25-29 ans;Suisses;10
+Nidwald;25-29 ans;Total;14
+Nidwald;30-34 ans;Etrangers;17
+Nidwald;30-34 ans;Suisses;10
+Nidwald;30-34 ans;Total;27
+Nidwald;35-39 ans;Etrangers;13
+Nidwald;35-39 ans;Suisses;13
+Nidwald;35-39 ans;Total;26
+Nidwald;40-44 ans;Etrangers;11
+Nidwald;40-44 ans;Suisses;9
+Nidwald;40-44 ans;Total;20
+Nidwald;45-49 ans;Etrangers;13
+Nidwald;45-49 ans;Suisses;23
+Nidwald;45-49 ans;Total;36
+Nidwald;50-54 ans;Etrangers;15
+Nidwald;50-54 ans;Suisses;27
+Nidwald;50-54 ans;Total;42
+Nidwald;55-59 ans;Etrangers;12
+Nidwald;55-59 ans;Suisses;28
+Nidwald;55-59 ans;Total;40
+Nidwald;60 ans et plus;Etrangers;1
+Nidwald;60 ans et plus;Suisses;15
+Nidwald;60 ans et plus;Total;16
+Nidwald;Total;;241
+Glaris;15-19 ans;Etrangers;6
+Glaris;15-19 ans;Suisses;11
+Glaris;15-19 ans;Total;17
+Glaris;20-24 ans;Etrangers;13
+Glaris;20-24 ans;Suisses;21
+Glaris;20-24 ans;Total;34
+Glaris;25-29 ans;Etrangers;27
+Glaris;25-29 ans;Suisses;36
+Glaris;25-29 ans;Total;63
+Glaris;30-34 ans;Etrangers;26
+Glaris;30-34 ans;Suisses;22
+Glaris;30-34 ans;Total;48
+Glaris;35-39 ans;Etrangers;26
+Glaris;35-39 ans;Suisses;18
+Glaris;35-39 ans;Total;44
+Glaris;40-44 ans;Etrangers;21
+Glaris;40-44 ans;Suisses;13
+Glaris;40-44 ans;Total;34
+Glaris;45-49 ans;Etrangers;19
+Glaris;45-49 ans;Suisses;15
+Glaris;45-49 ans;Total;34
+Glaris;50-54 ans;Etrangers;16
+Glaris;50-54 ans;Suisses;29
+Glaris;50-54 ans;Total;45
+Glaris;55-59 ans;Etrangers;25
+Glaris;55-59 ans;Suisses;25
+Glaris;55-59 ans;Total;50
+Glaris;60 ans et plus;Etrangers;16
+Glaris;60 ans et plus;Suisses;30
+Glaris;60 ans et plus;Total;46
+Glaris;Total;;415
+Zoug;15-19 ans;Etrangers;13
+Zoug;15-19 ans;Suisses;17
+Zoug;15-19 ans;Total;30
+Zoug;20-24 ans;Etrangers;36
+Zoug;20-24 ans;Suisses;53
+Zoug;20-24 ans;Total;89
+Zoug;25-29 ans;Etrangers;59
+Zoug;25-29 ans;Suisses;78
+Zoug;25-29 ans;Total;137
+Zoug;30-34 ans;Etrangers;112
+Zoug;30-34 ans;Suisses;90
+Zoug;30-34 ans;Total;202
+Zoug;35-39 ans;Etrangers;110
+Zoug;35-39 ans;Suisses;81
+Zoug;35-39 ans;Total;191
+Zoug;40-44 ans;Etrangers;101
+Zoug;40-44 ans;Suisses;83
+Zoug;40-44 ans;Total;184
+Zoug;45-49 ans;Etrangers;108
+Zoug;45-49 ans;Suisses;120
+Zoug;45-49 ans;Total;228
+Zoug;50-54 ans;Etrangers;94
+Zoug;50-54 ans;Suisses;147
+Zoug;50-54 ans;Total;241
+Zoug;55-59 ans;Etrangers;60
+Zoug;55-59 ans;Suisses;100
+Zoug;55-59 ans;Total;160
+Zoug;60 ans et plus;Etrangers;35
+Zoug;60 ans et plus;Suisses;77
+Zoug;60 ans et plus;Total;112
+Zoug;Total;;1 574
+Fribourg;15-19 ans;Etrangers;45
+Fribourg;15-19 ans;Suisses;70
+Fribourg;15-19 ans;Total;115
+Fribourg;20-24 ans;Etrangers;137
+Fribourg;20-24 ans;Suisses;289
+Fribourg;20-24 ans;Total;426
+Fribourg;25-29 ans;Etrangers;233
+Fribourg;25-29 ans;Suisses;362
+Fribourg;25-29 ans;Total;595
+Fribourg;30-34 ans;Etrangers;281
+Fribourg;30-34 ans;Suisses;293
+Fribourg;30-34 ans;Total;574
+Fribourg;35-39 ans;Etrangers;301
+Fribourg;35-39 ans;Suisses;265
+Fribourg;35-39 ans;Total;566
+Fribourg;40-44 ans;Etrangers;246
+Fribourg;40-44 ans;Suisses;277
+Fribourg;40-44 ans;Total;523
+Fribourg;45-49 ans;Etrangers;203
+Fribourg;45-49 ans;Suisses;269
+Fribourg;45-49 ans;Total;472
+Fribourg;50-54 ans;Etrangers;179
+Fribourg;50-54 ans;Suisses;300
+Fribourg;50-54 ans;Total;479
+Fribourg;55-59 ans;Etrangers;120
+Fribourg;55-59 ans;Suisses;233
+Fribourg;55-59 ans;Total;353
+Fribourg;60 ans et plus;Etrangers;61
+Fribourg;60 ans et plus;Suisses;208
+Fribourg;60 ans et plus;Total;269
+Fribourg;Total;;4 372
+Soleure;15-19 ans;Etrangers;81
+Soleure;15-19 ans;Suisses;132
+Soleure;15-19 ans;Total;213
+Soleure;20-24 ans;Etrangers;126
+Soleure;20-24 ans;Suisses;229
+Soleure;20-24 ans;Total;355
+Soleure;25-29 ans;Etrangers;213
+Soleure;25-29 ans;Suisses;259
+Soleure;25-29 ans;Total;472
+Soleure;30-34 ans;Etrangers;244
+Soleure;30-34 ans;Suisses;267
+Soleure;30-34 ans;Total;511
+Soleure;35-39 ans;Etrangers;203
+Soleure;35-39 ans;Suisses;200
+Soleure;35-39 ans;Total;403
+Soleure;40-44 ans;Etrangers;174
+Soleure;40-44 ans;Suisses;165
+Soleure;40-44 ans;Total;339
+Soleure;45-49 ans;Etrangers;172
+Soleure;45-49 ans;Suisses;219
+Soleure;45-49 ans;Total;391
+Soleure;50-54 ans;Etrangers;168
+Soleure;50-54 ans;Suisses;267
+Soleure;50-54 ans;Total;435
+Soleure;55-59 ans;Etrangers;145
+Soleure;55-59 ans;Suisses;274
+Soleure;55-59 ans;Total;419
+Soleure;60 ans et plus;Etrangers;105
+Soleure;60 ans et plus;Suisses;257
+Soleure;60 ans et plus;Total;362
+Soleure;Total;;3 900
+Bâle-Ville;15-19 ans;Etrangers;33
+Bâle-Ville;15-19 ans;Suisses;55
+Bâle-Ville;15-19 ans;Total;88
+Bâle-Ville;20-24 ans;Etrangers;102
+Bâle-Ville;20-24 ans;Suisses;155
+Bâle-Ville;20-24 ans;Total;257
+Bâle-Ville;25-29 ans;Etrangers;223
+Bâle-Ville;25-29 ans;Suisses;265
+Bâle-Ville;25-29 ans;Total;488
+Bâle-Ville;30-34 ans;Etrangers;323
+Bâle-Ville;30-34 ans;Suisses;259
+Bâle-Ville;30-34 ans;Total;582
+Bâle-Ville;35-39 ans;Etrangers;344
+Bâle-Ville;35-39 ans;Suisses;169
+Bâle-Ville;35-39 ans;Total;513
+Bâle-Ville;40-44 ans;Etrangers;262
+Bâle-Ville;40-44 ans;Suisses;137
+Bâle-Ville;40-44 ans;Total;399
+Bâle-Ville;45-49 ans;Etrangers;205
+Bâle-Ville;45-49 ans;Suisses;142
+Bâle-Ville;45-49 ans;Total;347
+Bâle-Ville;50-54 ans;Etrangers;161
+Bâle-Ville;50-54 ans;Suisses;176
+Bâle-Ville;50-54 ans;Total;337
+Bâle-Ville;55-59 ans;Etrangers;126
+Bâle-Ville;55-59 ans;Suisses;166
+Bâle-Ville;55-59 ans;Total;292
+Bâle-Ville;60 ans et plus;Etrangers;82
+Bâle-Ville;60 ans et plus;Suisses;129
+Bâle-Ville;60 ans et plus;Total;211
+Bâle-Ville;Total;;3 514
+Bâle-Campagne;15-19 ans;Etrangers;22
+Bâle-Campagne;15-19 ans;Suisses;51
+Bâle-Campagne;15-19 ans;Total;73
+Bâle-Campagne;20-24 ans;Etrangers;120
+Bâle-Campagne;20-24 ans;Suisses;299
+Bâle-Campagne;20-24 ans;Total;419
+Bâle-Campagne;25-29 ans;Etrangers;219
+Bâle-Campagne;25-29 ans;Suisses;324
+Bâle-Campagne;25-29 ans;Total;543
+Bâle-Campagne;30-34 ans;Etrangers;259
+Bâle-Campagne;30-34 ans;Suisses;268
+Bâle-Campagne;30-34 ans;Total;527
+Bâle-Campagne;35-39 ans;Etrangers;231
+Bâle-Campagne;35-39 ans;Suisses;237
+Bâle-Campagne;35-39 ans;Total;468
+Bâle-Campagne;40-44 ans;Etrangers;219
+Bâle-Campagne;40-44 ans;Suisses;198
+Bâle-Campagne;40-44 ans;Total;417
+Bâle-Campagne;45-49 ans;Etrangers;186
+Bâle-Campagne;45-49 ans;Suisses;271
+Bâle-Campagne;45-49 ans;Total;457
+Bâle-Campagne;50-54 ans;Etrangers;151
+Bâle-Campagne;50-54 ans;Suisses;310
+Bâle-Campagne;50-54 ans;Total;461
+Bâle-Campagne;55-59 ans;Etrangers;131
+Bâle-Campagne;55-59 ans;Suisses;318
+Bâle-Campagne;55-59 ans;Total;449
+Bâle-Campagne;60 ans et plus;Etrangers;74
+Bâle-Campagne;60 ans et plus;Suisses;263
+Bâle-Campagne;60 ans et plus;Total;337
+Bâle-Campagne;Total;;4 151
+Schaffhouse;15-19 ans;Etrangers;36
+Schaffhouse;15-19 ans;Suisses;46
+Schaffhouse;15-19 ans;Total;82
+Schaffhouse;20-24 ans;Etrangers;50
+Schaffhouse;20-24 ans;Suisses;104
+Schaffhouse;20-24 ans;Total;154
+Schaffhouse;25-29 ans;Etrangers;71
+Schaffhouse;25-29 ans;Suisses;88
+Schaffhouse;25-29 ans;Total;159
+Schaffhouse;30-34 ans;Etrangers;83
+Schaffhouse;30-34 ans;Suisses;71
+Schaffhouse;30-34 ans;Total;154
+Schaffhouse;35-39 ans;Etrangers;89
+Schaffhouse;35-39 ans;Suisses;56
+Schaffhouse;35-39 ans;Total;145
+Schaffhouse;40-44 ans;Etrangers;81
+Schaffhouse;40-44 ans;Suisses;57
+Schaffhouse;40-44 ans;Total;138
+Schaffhouse;45-49 ans;Etrangers;74
+Schaffhouse;45-49 ans;Suisses;62
+Schaffhouse;45-49 ans;Total;136
+Schaffhouse;50-54 ans;Etrangers;64
+Schaffhouse;50-54 ans;Suisses;86
+Schaffhouse;50-54 ans;Total;150
+Schaffhouse;55-59 ans;Etrangers;41
+Schaffhouse;55-59 ans;Suisses;79
+Schaffhouse;55-59 ans;Total;120
+Schaffhouse;60 ans et plus;Etrangers;32
+Schaffhouse;60 ans et plus;Suisses;52
+Schaffhouse;60 ans et plus;Total;84
+Schaffhouse;Total;;1 322
+Appenzell Rhodes-Extérieures;15-19 ans;Etrangers;0
+Appenzell Rhodes-Extérieures;15-19 ans;Suisses;11
+Appenzell Rhodes-Extérieures;15-19 ans;Total;11
+Appenzell Rhodes-Extérieures;20-24 ans;Etrangers;8
+Appenzell Rhodes-Extérieures;20-24 ans;Suisses;31
+Appenzell Rhodes-Extérieures;20-24 ans;Total;39
+Appenzell Rhodes-Extérieures;25-29 ans;Etrangers;19
+Appenzell Rhodes-Extérieures;25-29 ans;Suisses;35
+Appenzell Rhodes-Extérieures;25-29 ans;Total;54
+Appenzell Rhodes-Extérieures;30-34 ans;Etrangers;29
+Appenzell Rhodes-Extérieures;30-34 ans;Suisses;28
+Appenzell Rhodes-Extérieures;30-34 ans;Total;57
+Appenzell Rhodes-Extérieures;35-39 ans;Etrangers;29
+Appenzell Rhodes-Extérieures;35-39 ans;Suisses;22
+Appenzell Rhodes-Extérieures;35-39 ans;Total;51
+Appenzell Rhodes-Extérieures;40-44 ans;Etrangers;25
+Appenzell Rhodes-Extérieures;40-44 ans;Suisses;30
+Appenzell Rhodes-Extérieures;40-44 ans;Total;55
+Appenzell Rhodes-Extérieures;45-49 ans;Etrangers;21
+Appenzell Rhodes-Extérieures;45-49 ans;Suisses;35
+Appenzell Rhodes-Extérieures;45-49 ans;Total;56
+Appenzell Rhodes-Extérieures;50-54 ans;Etrangers;27
+Appenzell Rhodes-Extérieures;50-54 ans;Suisses;62
+Appenzell Rhodes-Extérieures;50-54 ans;Total;89
+Appenzell Rhodes-Extérieures;55-59 ans;Etrangers;18
+Appenzell Rhodes-Extérieures;55-59 ans;Suisses;57
+Appenzell Rhodes-Extérieures;55-59 ans;Total;75
+Appenzell Rhodes-Extérieures;60 ans et plus;Etrangers;21
+Appenzell Rhodes-Extérieures;60 ans et plus;Suisses;35
+Appenzell Rhodes-Extérieures;60 ans et plus;Total;56
+Appenzell Rhodes-Extérieures;Total;;543
+Appenzell Rhodes-Intérieures;15-19 ans;Suisses;1
+Appenzell Rhodes-Intérieures;15-19 ans;Total;1
+Appenzell Rhodes-Intérieures;20-24 ans;Etrangers;5
+Appenzell Rhodes-Intérieures;20-24 ans;Suisses;8
+Appenzell Rhodes-Intérieures;20-24 ans;Total;13
+Appenzell Rhodes-Intérieures;25-29 ans;Etrangers;1
+Appenzell Rhodes-Intérieures;25-29 ans;Suisses;3
+Appenzell Rhodes-Intérieures;25-29 ans;Total;4
+Appenzell Rhodes-Intérieures;30-34 ans;Etrangers;2
+Appenzell Rhodes-Intérieures;30-34 ans;Suisses;3
+Appenzell Rhodes-Intérieures;30-34 ans;Total;5
+Appenzell Rhodes-Intérieures;35-39 ans;Etrangers;3
+Appenzell Rhodes-Intérieures;35-39 ans;Suisses;7
+Appenzell Rhodes-Intérieures;35-39 ans;Total;10
+Appenzell Rhodes-Intérieures;40-44 ans;Etrangers;1
+Appenzell Rhodes-Intérieures;40-44 ans;Suisses;3
+Appenzell Rhodes-Intérieures;40-44 ans;Total;4
+Appenzell Rhodes-Intérieures;45-49 ans;Etrangers;2
+Appenzell Rhodes-Intérieures;45-49 ans;Suisses;1
+Appenzell Rhodes-Intérieures;45-49 ans;Total;3
+Appenzell Rhodes-Intérieures;50-54 ans;Etrangers;3
+Appenzell Rhodes-Intérieures;50-54 ans;Suisses;4
+Appenzell Rhodes-Intérieures;50-54 ans;Total;7
+Appenzell Rhodes-Intérieures;55-59 ans;Etrangers;4
+Appenzell Rhodes-Intérieures;55-59 ans;Suisses;10
+Appenzell Rhodes-Intérieures;55-59 ans;Total;14
+Appenzell Rhodes-Intérieures;60 ans et plus;Etrangers;3
+Appenzell Rhodes-Intérieures;60 ans et plus;Suisses;4
+Appenzell Rhodes-Intérieures;60 ans et plus;Total;7
+Appenzell Rhodes-Intérieures;Total;;68
+St-Gall;15-19 ans;Etrangers;77
+St-Gall;15-19 ans;Suisses;107
+St-Gall;15-19 ans;Total;184
+St-Gall;20-24 ans;Etrangers;260
+St-Gall;20-24 ans;Suisses;369
+St-Gall;20-24 ans;Total;629
+St-Gall;25-29 ans;Etrangers;407
+St-Gall;25-29 ans;Suisses;445
+St-Gall;25-29 ans;Total;852
+St-Gall;30-34 ans;Etrangers;461
+St-Gall;30-34 ans;Suisses;345
+St-Gall;30-34 ans;Total;806
+St-Gall;35-39 ans;Etrangers;430
+St-Gall;35-39 ans;Suisses;261
+St-Gall;35-39 ans;Total;691
+St-Gall;40-44 ans;Etrangers;342
+St-Gall;40-44 ans;Suisses;222
+St-Gall;40-44 ans;Total;564
+St-Gall;45-49 ans;Etrangers;294
+St-Gall;45-49 ans;Suisses;273
+St-Gall;45-49 ans;Total;567
+St-Gall;50-54 ans;Etrangers;284
+St-Gall;50-54 ans;Suisses;379
+St-Gall;50-54 ans;Total;663
+St-Gall;55-59 ans;Etrangers;221
+St-Gall;55-59 ans;Suisses;351
+St-Gall;55-59 ans;Total;572
+St-Gall;60 ans et plus;Etrangers;177
+St-Gall;60 ans et plus;Suisses;349
+St-Gall;60 ans et plus;Total;526
+St-Gall;Total;;6 054
+Grisons;15-19 ans;Etrangers;16
+Grisons;15-19 ans;Suisses;19
+Grisons;15-19 ans;Total;35
+Grisons;20-24 ans;Etrangers;29
+Grisons;20-24 ans;Suisses;79
+Grisons;20-24 ans;Total;108
+Grisons;25-29 ans;Etrangers;63
+Grisons;25-29 ans;Suisses;72
+Grisons;25-29 ans;Total;135
+Grisons;30-34 ans;Etrangers;60
+Grisons;30-34 ans;Suisses;70
+Grisons;30-34 ans;Total;130
+Grisons;35-39 ans;Etrangers;62
+Grisons;35-39 ans;Suisses;36
+Grisons;35-39 ans;Total;98
+Grisons;40-44 ans;Etrangers;62
+Grisons;40-44 ans;Suisses;40
+Grisons;40-44 ans;Total;102
+Grisons;45-49 ans;Etrangers;54
+Grisons;45-49 ans;Suisses;62
+Grisons;45-49 ans;Total;116
+Grisons;50-54 ans;Etrangers;54
+Grisons;50-54 ans;Suisses;74
+Grisons;50-54 ans;Total;128
+Grisons;55-59 ans;Etrangers;39
+Grisons;55-59 ans;Suisses;82
+Grisons;55-59 ans;Total;121
+Grisons;60 ans et plus;Etrangers;31
+Grisons;60 ans et plus;Suisses;80
+Grisons;60 ans et plus;Total;111
+Grisons;Total;;1 084
+Argovie;15-19 ans;Etrangers;159
+Argovie;15-19 ans;Suisses;220
+Argovie;15-19 ans;Total;379
+Argovie;20-24 ans;Etrangers;394
+Argovie;20-24 ans;Suisses;597
+Argovie;20-24 ans;Total;991
+Argovie;25-29 ans;Etrangers;695
+Argovie;25-29 ans;Suisses;707
+Argovie;25-29 ans;Total;1 402
+Argovie;30-34 ans;Etrangers;751
+Argovie;30-34 ans;Suisses;599
+Argovie;30-34 ans;Total;1 350
+Argovie;35-39 ans;Etrangers;745
+Argovie;35-39 ans;Suisses;533
+Argovie;35-39 ans;Total;1 278
+Argovie;40-44 ans;Etrangers;601
+Argovie;40-44 ans;Suisses;463
+Argovie;40-44 ans;Total;1 064
+Argovie;45-49 ans;Etrangers;555
+Argovie;45-49 ans;Suisses;611
+Argovie;45-49 ans;Total;1 166
+Argovie;50-54 ans;Etrangers;473
+Argovie;50-54 ans;Suisses;741
+Argovie;50-54 ans;Total;1 214
+Argovie;55-59 ans;Etrangers;368
+Argovie;55-59 ans;Suisses;647
+Argovie;55-59 ans;Total;1 015
+Argovie;60 ans et plus;Etrangers;239
+Argovie;60 ans et plus;Suisses;621
+Argovie;60 ans et plus;Total;860
+Argovie;Total;;10 719
+Thurgovie;15-19 ans;Etrangers;53
+Thurgovie;15-19 ans;Suisses;77
+Thurgovie;15-19 ans;Total;130
+Thurgovie;20-24 ans;Etrangers;132
+Thurgovie;20-24 ans;Suisses;196
+Thurgovie;20-24 ans;Total;328
+Thurgovie;25-29 ans;Etrangers;234
+Thurgovie;25-29 ans;Suisses;220
+Thurgovie;25-29 ans;Total;454
+Thurgovie;30-34 ans;Etrangers;220
+Thurgovie;30-34 ans;Suisses;151
+Thurgovie;30-34 ans;Total;371
+Thurgovie;35-39 ans;Etrangers;210
+Thurgovie;35-39 ans;Suisses;126
+Thurgovie;35-39 ans;Total;336
+Thurgovie;40-44 ans;Etrangers;156
+Thurgovie;40-44 ans;Suisses;112
+Thurgovie;40-44 ans;Total;268
+Thurgovie;45-49 ans;Etrangers;149
+Thurgovie;45-49 ans;Suisses;167
+Thurgovie;45-49 ans;Total;316
+Thurgovie;50-54 ans;Etrangers;164
+Thurgovie;50-54 ans;Suisses;173
+Thurgovie;50-54 ans;Total;337
+Thurgovie;55-59 ans;Etrangers;119
+Thurgovie;55-59 ans;Suisses;193
+Thurgovie;55-59 ans;Total;312
+Thurgovie;60 ans et plus;Etrangers;109
+Thurgovie;60 ans et plus;Suisses;165
+Thurgovie;60 ans et plus;Total;274
+Thurgovie;Total;;3 126
+Tessin;15-19 ans;Etrangers;48
+Tessin;15-19 ans;Suisses;109
+Tessin;15-19 ans;Total;157
+Tessin;20-24 ans;Etrangers;113
+Tessin;20-24 ans;Suisses;332
+Tessin;20-24 ans;Total;445
+Tessin;25-29 ans;Etrangers;189
+Tessin;25-29 ans;Suisses;349
+Tessin;25-29 ans;Total;538
+Tessin;30-34 ans;Etrangers;282
+Tessin;30-34 ans;Suisses;275
+Tessin;30-34 ans;Total;557
+Tessin;35-39 ans;Etrangers;296
+Tessin;35-39 ans;Suisses;223
+Tessin;35-39 ans;Total;519
+Tessin;40-44 ans;Etrangers;303
+Tessin;40-44 ans;Suisses;272
+Tessin;40-44 ans;Total;575
+Tessin;45-49 ans;Etrangers;277
+Tessin;45-49 ans;Suisses;317
+Tessin;45-49 ans;Total;594
+Tessin;50-54 ans;Etrangers;297
+Tessin;50-54 ans;Suisses;358
+Tessin;50-54 ans;Total;655
+Tessin;55-59 ans;Etrangers;256
+Tessin;55-59 ans;Suisses;281
+Tessin;55-59 ans;Total;537
+Tessin;60 ans et plus;Etrangers;145
+Tessin;60 ans et plus;Suisses;260
+Tessin;60 ans et plus;Total;405
+Tessin;Total;;4 982
+Vaud;15-19 ans;Etrangers;93
+Vaud;15-19 ans;Suisses;166
+Vaud;15-19 ans;Total;259
+Vaud;20-24 ans;Etrangers;457
+Vaud;20-24 ans;Suisses;905
+Vaud;20-24 ans;Total;1 362
+Vaud;25-29 ans;Etrangers;1 041
+Vaud;25-29 ans;Suisses;1 369
+Vaud;25-29 ans;Total;2 410
+Vaud;30-34 ans;Etrangers;1 444
+Vaud;30-34 ans;Suisses;1 151
+Vaud;30-34 ans;Total;2 595
+Vaud;35-39 ans;Etrangers;1 306
+Vaud;35-39 ans;Suisses;930
+Vaud;35-39 ans;Total;2 236
+Vaud;40-44 ans;Etrangers;1 205
+Vaud;40-44 ans;Suisses;923
+Vaud;40-44 ans;Total;2 128
+Vaud;45-49 ans;Etrangers;936
+Vaud;45-49 ans;Suisses;1 021
+Vaud;45-49 ans;Total;1 957
+Vaud;50-54 ans;Etrangers;773
+Vaud;50-54 ans;Suisses;1 063
+Vaud;50-54 ans;Total;1 836
+Vaud;55-59 ans;Etrangers;591
+Vaud;55-59 ans;Suisses;861
+Vaud;55-59 ans;Total;1 452
+Vaud;60 ans et plus;Etrangers;297
+Vaud;60 ans et plus;Suisses;573
+Vaud;60 ans et plus;Total;870
+Vaud;Total;;17 105
+Valais;15-19 ans;Etrangers;94
+Valais;15-19 ans;Suisses;124
+Valais;15-19 ans;Total;218
+Valais;20-24 ans;Etrangers;174
+Valais;20-24 ans;Suisses;363
+Valais;20-24 ans;Total;537
+Valais;25-29 ans;Etrangers;276
+Valais;25-29 ans;Suisses;415
+Valais;25-29 ans;Total;691
+Valais;30-34 ans;Etrangers;331
+Valais;30-34 ans;Suisses;315
+Valais;30-34 ans;Total;646
+Valais;35-39 ans;Etrangers;314
+Valais;35-39 ans;Suisses;264
+Valais;35-39 ans;Total;578
+Valais;40-44 ans;Etrangers;270
+Valais;40-44 ans;Suisses;238
+Valais;40-44 ans;Total;508
+Valais;45-49 ans;Etrangers;256
+Valais;45-49 ans;Suisses;276
+Valais;45-49 ans;Total;532
+Valais;50-54 ans;Etrangers;219
+Valais;50-54 ans;Suisses;316
+Valais;50-54 ans;Total;535
+Valais;55-59 ans;Etrangers;142
+Valais;55-59 ans;Suisses;271
+Valais;55-59 ans;Total;413
+Valais;60 ans et plus;Etrangers;113
+Valais;60 ans et plus;Suisses;234
+Valais;60 ans et plus;Total;347
+Valais;Total;;5 005
+Neuchâtel;15-19 ans;Etrangers;56
+Neuchâtel;15-19 ans;Suisses;131
+Neuchâtel;15-19 ans;Total;187
+Neuchâtel;20-24 ans;Etrangers;129
+Neuchâtel;20-24 ans;Suisses;321
+Neuchâtel;20-24 ans;Total;450
+Neuchâtel;25-29 ans;Etrangers;241
+Neuchâtel;25-29 ans;Suisses;446
+Neuchâtel;25-29 ans;Total;687
+Neuchâtel;30-34 ans;Etrangers;316
+Neuchâtel;30-34 ans;Suisses;309
+Neuchâtel;30-34 ans;Total;625
+Neuchâtel;35-39 ans;Etrangers;313
+Neuchâtel;35-39 ans;Suisses;283
+Neuchâtel;35-39 ans;Total;596
+Neuchâtel;40-44 ans;Etrangers;319
+Neuchâtel;40-44 ans;Suisses;252
+Neuchâtel;40-44 ans;Total;571
+Neuchâtel;45-49 ans;Etrangers;221
+Neuchâtel;45-49 ans;Suisses;315
+Neuchâtel;45-49 ans;Total;536
+Neuchâtel;50-54 ans;Etrangers;201
+Neuchâtel;50-54 ans;Suisses;288
+Neuchâtel;50-54 ans;Total;489
+Neuchâtel;55-59 ans;Etrangers;138
+Neuchâtel;55-59 ans;Suisses;274
+Neuchâtel;55-59 ans;Total;412
+Neuchâtel;60 ans et plus;Etrangers;82
+Neuchâtel;60 ans et plus;Suisses;217
+Neuchâtel;60 ans et plus;Total;299
+Neuchâtel;Total;;4 852
+Genève;15-19 ans;Etrangers;7
+Genève;15-19 ans;Suisses;22
+Genève;15-19 ans;Total;29
+Genève;20-24 ans;Etrangers;234
+Genève;20-24 ans;Suisses;458
+Genève;20-24 ans;Total;692
+Genève;25-29 ans;Etrangers;701
+Genève;25-29 ans;Suisses;1 072
+Genève;25-29 ans;Total;1 773
+Genève;30-34 ans;Etrangers;1 077
+Genève;30-34 ans;Suisses;887
+Genève;30-34 ans;Total;1 964
+Genève;35-39 ans;Etrangers;1 132
+Genève;35-39 ans;Suisses;762
+Genève;35-39 ans;Total;1 894
+Genève;40-44 ans;Etrangers;919
+Genève;40-44 ans;Suisses;685
+Genève;40-44 ans;Total;1 604
+Genève;45-49 ans;Etrangers;707
+Genève;45-49 ans;Suisses;685
+Genève;45-49 ans;Total;1 392
+Genève;50-54 ans;Etrangers;538
+Genève;50-54 ans;Suisses;691
+Genève;50-54 ans;Total;1 229
+Genève;55-59 ans;Etrangers;340
+Genève;55-59 ans;Suisses;518
+Genève;55-59 ans;Total;858
+Genève;60 ans et plus;Etrangers;219
+Genève;60 ans et plus;Suisses;390
+Genève;60 ans et plus;Total;609
+Genève;Total;;12 044
+Jura;15-19 ans;Etrangers;13
+Jura;15-19 ans;Suisses;35
+Jura;15-19 ans;Total;48
+Jura;20-24 ans;Etrangers;48
+Jura;20-24 ans;Suisses;133
+Jura;20-24 ans;Total;181
+Jura;25-29 ans;Etrangers;56
+Jura;25-29 ans;Suisses;136
+Jura;25-29 ans;Total;192
+Jura;30-34 ans;Etrangers;77
+Jura;30-34 ans;Suisses;119
+Jura;30-34 ans;Total;196
+Jura;35-39 ans;Etrangers;79
+Jura;35-39 ans;Suisses;97
+Jura;35-39 ans;Total;176
+Jura;40-44 ans;Etrangers;73
+Jura;40-44 ans;Suisses;91
+Jura;40-44 ans;Total;164
+Jura;45-49 ans;Etrangers;73
+Jura;45-49 ans;Suisses;113
+Jura;45-49 ans;Total;186
+Jura;50-54 ans;Etrangers;55
+Jura;50-54 ans;Suisses;131
+Jura;50-54 ans;Total;186
+Jura;55-59 ans;Etrangers;41
+Jura;55-59 ans;Suisses;111
+Jura;55-59 ans;Total;152
+Jura;60 ans et plus;Etrangers;20
+Jura;60 ans et plus;Suisses;102
+Jura;60 ans et plus;Total;122
+Jura;Total;;1 603
