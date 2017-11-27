@@ -46,9 +46,22 @@ We can see that the data is well organized with some index similar to the Pandas
 - Determine if they are correlations (exploratory analysis)
 - Determine if we keep data before the last raise of tuition fee
 
-# Questions for TAs
+# A list of internal milestones up until project milestone 3
+- Compute total cost of EPFs
+- Compute total fund of EPFs
+- Compute total fund of EPFs with the Tuition Fee raise
+- Compute the cost per student, with prediction of students
+- Compute the proportion of students with a scholarship
+- Compute number of staff per student
+- Answer the research questions
+- Propose a plan for the poster visualization
 
+# Questions for TAs
+Milestone 1 :
 - How much of our project should be spent on visualization ?
 - Is our subject too general ?
 - Is it okay to process only numerical data ?
 - Can we get additional external datasets (for example inflation of Swiss franc over the years, or salary after diploma depending on field of study)?
+
+Milestone 2:
+- Is the visualization needed in milestone 3 or only for Applied Machine Learning Days ?
