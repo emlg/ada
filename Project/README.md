@@ -8,16 +8,16 @@ By analyzing the evolution of the different costs, the different funds, the numb
 
 # Research questions
 
+### Economic aspect of undergraduate studying in Switzerland
 - What is the trend of the costs of universities ?
 - How does the repartition between private and public funds evolve ?
-- Do the private funds prefer EPF rather than universities ?
-- Should the Tuition fee depend on your domain ?
 - Are the number of staff and the number of students correlated ?
 - In what criteria do the EPF situation differ from the Swiss universities situation ?
+
+### Tuition Fee related information
+- Should the Tuition fee depend on your domain ?
+- Can we relate the Tuition Fees evolution to the Research funds and Confederation funds ?
 - Should we differentiate Swiss students from international students regarding tuition fees ?
-- How many month/year of salary does it take to refund your tuition fee, depending on domain ?
-- Can we relate the Tuition Fees evolution to the Research funds ?
-- Can we spot some differences between EPFL and ETHZ ?
 
 # Dataset
 
@@ -30,7 +30,7 @@ With the following links, we can easily have a look at the data and select which
 - Cost coverage by financial source : https://opendata.swiss/fr/dataset/deckung-des-aufwands-der-universitaren-hochschulen-nach-finanzquelle-und-hochschule/resource/6adb1f81-bd84-4fff-827c-56e00fe3d106
 - Cost (running, staff, buildings) : https://opendata.swiss/fr/dataset/aufwand-der-universitaren-hochschulen-nach-hochschule-fachbereich-aufwandsart-und-finanzierungstyp/resource/4602599f-393d-492d-84cf-ec6035b9811b
 - Staff per domain and category : https://opendata.swiss/fr/dataset/personal-der-universitaren-hochschulen-nach-fachbereich-personalkategorie-und-hochschule-in-personen/resource/e85ba97e-153a-45e1-bfa8-fa684f27efb6
-- Diplomas per domain and nationality : https://opendata.swiss/fr/dataset/abschlusse-der-universitaren-hochschulen-nach-jahr-examensstufe-fachrichtung-staatsangehorigkeit-und/resource/3582eeb3-e871-4d31-b3a0-a815b99e47ce
+- Diplomas per domain and nationality (In the end this dataset will not be used, see notebook for explanation): https://opendata.swiss/fr/dataset/abschlusse-der-universitaren-hochschulen-nach-jahr-examensstufe-fachrichtung-staatsangehorigkeit-und/resource/3582eeb3-e871-4d31-b3a0-a815b99e47ce
 - Students entering at Bachelor level : https://opendata.swiss/fr/dataset/px-x-1502040100_124
 - Students by domain : https://opendata.swiss/fr/dataset/studierende-an-den-universitaren-hochschulen-nach-jahr-fachrichtung-staatsangehorigkeit-und-hochschu/resource/d3835acf-266f-472f-882f-21a3e301094b
 - Prediction of students : https://opendata.swiss/fr/dataset/px-x-1509090000_111/resource/ea5dd8a2-ccde-4dac-b110-249ea81a6a5c
