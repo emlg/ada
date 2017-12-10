@@ -12,7 +12,7 @@ In addition there is a conversion functionality to create a Pandas DataFrame obj
 Note: Python 2.7 support required
 """
 
-import resource, logging, re, codecs
+import logging, re, codecs
 from collections import OrderedDict as OD
 from collections import defaultdict
 from itertools import zip_longest, cycle, repeat
