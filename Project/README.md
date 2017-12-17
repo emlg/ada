@@ -37,7 +37,7 @@ With the following links, we can easily have a look at the data and select which
 
 We can see that the data is well organized with some index similar to the Pandas dataframe. We can see that the variables names are consistent form one file to the other.
 
-#Contribution
+# Contribution
 - Olivier : Data collection, Harmonization of graphs, work on final presentation
 - Emma : Project Proposal, Graph of evolution for each file, answer research questions of axis 2
 - Matthieu : Load data & clean, Graph analysis, answer research questions of axis 1
