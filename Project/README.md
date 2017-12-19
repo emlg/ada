@@ -38,8 +38,8 @@ With the following links, we can easily have a look at the data and select which
 We can see that the data is well organized with some index similar to the Pandas dataframe. We can see that the variables names are consistent form one file to the other.
 
 # Contribution
-- Olivier : Data collection, Harmonization of graphs, work on final presentation
-- Emma : Project Proposal, Graph of evolution for each file, answer research questions of axis 2
+- Olivier : Data collection, Harmonization of graphs, work on final presentation, report
+- Emma : Project Proposal, Graph of evolution for each file, answer research questions of axis 2, poster plan
 - Matthieu : Load data & clean, Graph analysis, answer research questions of axis 1
 
 
@@ -60,7 +60,7 @@ We can see that the data is well organized with some index similar to the Pandas
 - Compute the proportion of students with a scholarship
 - Compute number of staff per student
 - Answer the research questions
-- Propose a plan for the poster visualization
+- Propose a plan for the poster visualization (see PDF in the repository)
 
 # Questions for TAs
 Milestone 1 :
